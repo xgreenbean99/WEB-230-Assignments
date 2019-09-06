@@ -1,0 +1,5 @@
+1. the difrence is where the file is procesed. server side is done on the server while client side is done on the clients.
+2. while programing languages need to be compiled scrips are simply interpreted
+3.php is a server side scripting language that is able to saave and recall data
+4.the client sends a request for a document. the server reads the document and grabs the files needed then sends them all to the client. the server continues to update the page
+5. the two types of requests are GET and POST. get is saved and cached while post is never saved
