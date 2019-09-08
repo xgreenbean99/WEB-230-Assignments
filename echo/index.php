@@ -1,3 +1,3 @@
 <?php
-echo '<strong>hello world</strong>';
+print ('<strong>hello world</strong>');
 ?>
