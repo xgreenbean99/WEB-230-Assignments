@@ -1,3 +1,6 @@
+
+
+
 <?php
-print ('<strong>hello world</strong>');
+echo "<input type=\"text\" name=\"name\" value=\"devon\">";
 ?>
